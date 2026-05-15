@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#003580</color> <!-- Deprecated: use primary_blue instead -->
+    <color name="primary_blue">#003580</color>
+    <color name="accent_yellow">#FFB700</color>
+    <color name="yellow">#FFB700</color> <!-- Deprecated: use accent_yellow instead -->
+    <color name="background_white">#FFFFFF</color>
+    <color name="light_gray">#F5F5F5</color>
+    <color name="dark_gray">#222222</color>
+    <color name="text_black">#000000</color>
+</resources>

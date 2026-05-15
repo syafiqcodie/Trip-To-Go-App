@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "67158403821",
+    "project_id": "triptogo-371d4",
+    "storage_bucket": "triptogo-371d4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67158403821:android:4dbc4e8f350526fc49bae4",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7x2Kkj5FpgTv6ALpqtZU_Eyq56z0NCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67158403821:android:97c840f02b05418d49bae4",
+        "android_client_info": {
+          "package_name": "com.example.logintriponthego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7x2Kkj5FpgTv6ALpqtZU_Eyq56z0NCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67158403821:android:b98cb0fef3e4ceeb49bae4",
+        "android_client_info": {
+          "package_name": "com.example.triptogo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw7x2Kkj5FpgTv6ALpqtZU_Eyq56z0NCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
